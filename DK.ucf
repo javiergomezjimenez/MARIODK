@@ -1,0 +1,23 @@
+NET "clk" LOC = "M6";
+NET "reset" LOC = "G12";
+
+NET "LB" LOC = "A7";
+NET "RB" LOC = "C11";
+NET "UB" LOC = "M4";
+
+NET "HS" LOC = "J14";
+NET "VS" LOC = "K13";
+
+NET "RGB[7]" LOC = "F13";
+NET "RGB[6]" LOC = "D13";
+NET "RGB[5]" LOC = "C14";
+
+NET "RGB[4]" LOC = "G14";
+NET "RGB[3]" LOC = "G13";
+NET "RGB[2]" LOC = "F14";
+
+NET "RGB[1]" LOC = "J13";
+NET "RGB[0]" LOC = "H13";
+
+NET "sw0" LOC = "P11";
+NET "sw1" LOC = "L3";

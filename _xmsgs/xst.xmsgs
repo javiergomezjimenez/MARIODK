@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="2211" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.vhd</arg>&quot; line <arg fmt="%d" index="2">373</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">barril_mem</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2211" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/stage.vhd</arg>&quot; line <arg fmt="%d" index="2">38</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">sprites</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/stage.vhd</arg>&quot; line <arg fmt="%d" index="2">95</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">pixel</arg>&gt; has a width of <arg fmt="%d" index="4">12</arg> bits but assigned expression is <arg fmt="%d" index="5">20</arg>-bit wide.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/stage.vhd</arg>&quot; line <arg fmt="%d" index="2">114</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">pixel</arg>&gt; has a width of <arg fmt="%d" index="4">12</arg> bits but assigned expression is <arg fmt="%d" index="5">20</arg>-bit wide.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/stage.vhd</arg>&quot; line <arg fmt="%d" index="2">128</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">pixel</arg>&gt; has a width of <arg fmt="%d" index="4">12</arg> bits but assigned expression is <arg fmt="%d" index="5">20</arg>-bit wide.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/stage.vhd</arg>&quot; line <arg fmt="%d" index="2">142</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">pixel</arg>&gt; has a width of <arg fmt="%d" index="4">12</arg> bits but assigned expression is <arg fmt="%d" index="5">20</arg>-bit wide.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/stage.vhd</arg>&quot; line <arg fmt="%d" index="2">270</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">pixel</arg>&gt; has a width of <arg fmt="%d" index="4">12</arg> bits but assigned expression is <arg fmt="%d" index="5">20</arg>-bit wide.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/stage.vhd</arg>&quot; line <arg fmt="%d" index="2">280</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">pixel</arg>&gt; has a width of <arg fmt="%d" index="4">12</arg> bits but assigned expression is <arg fmt="%d" index="5">20</arg>-bit wide.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/stage.vhd</arg>&quot; line <arg fmt="%d" index="2">290</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">pixel</arg>&gt; has a width of <arg fmt="%d" index="4">12</arg> bits but assigned expression is <arg fmt="%d" index="5">20</arg>-bit wide.
+</msg>
+
+<msg type="warning" file="Xst" num="2211" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/Mario.vhd</arg>&quot; line <arg fmt="%d" index="2">59</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">mario1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/Mario.vhd</arg>&quot; line <arg fmt="%d" index="2">99</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">pixel</arg>&gt; has a width of <arg fmt="%d" index="4">12</arg> bits but assigned expression is <arg fmt="%d" index="5">20</arg>-bit wide.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/Mario.vhd</arg>&quot; line <arg fmt="%d" index="2">101</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">pixel</arg>&gt; has a width of <arg fmt="%d" index="4">12</arg> bits but assigned expression is <arg fmt="%d" index="5">20</arg>-bit wide.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/Mario.vhd</arg>&quot; line <arg fmt="%d" index="2">105</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">pixel</arg>&gt; has a width of <arg fmt="%d" index="4">12</arg> bits but assigned expression is <arg fmt="%d" index="5">20</arg>-bit wide.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/Mario.vhd</arg>&quot; line <arg fmt="%d" index="2">107</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">pixel</arg>&gt; has a width of <arg fmt="%d" index="4">12</arg> bits but assigned expression is <arg fmt="%d" index="5">20</arg>-bit wide.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/Mario.vhd</arg>&quot; line <arg fmt="%d" index="2">112</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">pixel</arg>&gt; has a width of <arg fmt="%d" index="4">12</arg> bits but assigned expression is <arg fmt="%d" index="5">20</arg>-bit wide.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/Mario.vhd</arg>&quot; line <arg fmt="%d" index="2">114</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">pixel</arg>&gt; has a width of <arg fmt="%d" index="4">12</arg> bits but assigned expression is <arg fmt="%d" index="5">20</arg>-bit wide.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/Mario.vhd</arg>&quot; line <arg fmt="%d" index="2">118</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">pixel</arg>&gt; has a width of <arg fmt="%d" index="4">12</arg> bits but assigned expression is <arg fmt="%d" index="5">20</arg>-bit wide.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/Mario.vhd</arg>&quot; line <arg fmt="%d" index="2">120</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">pixel</arg>&gt; has a width of <arg fmt="%d" index="4">12</arg> bits but assigned expression is <arg fmt="%d" index="5">20</arg>-bit wide.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/Mario.vhd</arg>&quot; line <arg fmt="%d" index="2">125</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">pixel</arg>&gt; has a width of <arg fmt="%d" index="4">12</arg> bits but assigned expression is <arg fmt="%d" index="5">20</arg>-bit wide.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/Mario.vhd</arg>&quot; line <arg fmt="%d" index="2">127</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">pixel</arg>&gt; has a width of <arg fmt="%d" index="4">12</arg> bits but assigned expression is <arg fmt="%d" index="5">20</arg>-bit wide.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/barril.vhd</arg>&quot; line <arg fmt="%d" index="2">85</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">aux_pixel</arg>&gt; has a width of <arg fmt="%d" index="4">8</arg> bits but assigned expression is <arg fmt="%d" index="5">20</arg>-bit wide.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/barril.vhd</arg>&quot; line <arg fmt="%d" index="2">87</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">aux_pixel</arg>&gt; has a width of <arg fmt="%d" index="4">8</arg> bits but assigned expression is <arg fmt="%d" index="5">20</arg>-bit wide.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">s_empieza5</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="info" file="Xst" num="1767" delta="old" >HDL ADVISOR - Resource sharing has identified that some arithmetic operations in this design can share the same physical resources for reduced device utilization. For improved clock frequency you may try to disable resource sharing.
+</msg>
+
+<msg type="warning" file="Xst" num="2170" delta="old" >Unit <arg fmt="%s" index="1">stages_1</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="old" >Unit <arg fmt="%s" index="1">stages_1</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="old" >Unit <arg fmt="%s" index="1">stages_1</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="old" >Unit <arg fmt="%s" index="1">stages_1</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="old" >Unit <arg fmt="%s" index="1">stages_1</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="old" >Unit <arg fmt="%s" index="1">stages_1</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="old" >Unit <arg fmt="%s" index="1">stages_1</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="old" >Unit <arg fmt="%s" index="1">stages_1</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="old" >Unit <arg fmt="%s" index="1">stages_1</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="old" >Unit <arg fmt="%s" index="1">stages_1</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="old" >Unit <arg fmt="%s" index="1">stages_1</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="old" >Unit <arg fmt="%s" index="1">stages_1</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">barril_5/aux_direccion</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">DK</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">barril_5/siguiente</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">DK</arg>&gt;.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">control_m1/RGB_outh_4</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">DK</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;control_m1/RGB_outh_2&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">control_b1/RGB_outh_4</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">DK</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;control_b1/RGB_outh_2&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">control_b2/RGB_outh_4</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">DK</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;control_b2/RGB_outh_2&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">control_b3/RGB_outh_4</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">DK</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;control_b3/RGB_outh_2&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">control_b4/RGB_outh_4</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">DK</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;control_b4/RGB_outh_2&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">control_b5/RGB_outh_4</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">DK</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;control_b5/RGB_outh_2&gt; </arg>
+</msg>
+
+<msg type="warning" file="Xst" num="1336" delta="old" > (*) More than 100% of Device resources are used
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="old" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+</messages>
+

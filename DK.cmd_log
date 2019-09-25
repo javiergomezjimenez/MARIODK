@@ -1,0 +1,210 @@
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DK.twx DK.ncd -o DK.twr DK.pcf -ucf DK.ucf 
+bitgen -intstyle ise -f DK.ut DK.ncd 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DK.twx DK.ncd -o DK.twr DK.pcf -ucf DK.ucf 
+bitgen -intstyle ise -f DK.ut DK.ncd 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DK.twx DK.ncd -o DK.twr DK.pcf -ucf DK.ucf 
+bitgen -intstyle ise -f DK.ut DK.ncd 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DK.twx DK.ncd -o DK.twr DK.pcf -ucf DK.ucf 
+bitgen -intstyle ise -f DK.ut DK.ncd 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DK.twx DK.ncd -o DK.twr DK.pcf -ucf DK.ucf 
+bitgen -intstyle ise -f DK.ut DK.ncd 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DK.twx DK.ncd -o DK.twr DK.pcf -ucf DK.ucf 
+bitgen -intstyle ise -f DK.ut DK.ncd 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DK.twx DK.ncd -o DK.twr DK.pcf -ucf DK.ucf 
+bitgen -intstyle ise -f DK.ut DK.ncd 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DK.twx DK.ncd -o DK.twr DK.pcf -ucf DK.ucf 
+bitgen -intstyle ise -f DK.ut DK.ncd 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DK.twx DK.ncd -o DK.twr DK.pcf -ucf DK.ucf 
+bitgen -intstyle ise -f DK.ut DK.ncd 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DK.twx DK.ncd -o DK.twr DK.pcf -ucf DK.ucf 
+bitgen -intstyle ise -f DK.ut DK.ncd 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DK.twx DK.ncd -o DK.twr DK.pcf -ucf DK.ucf 
+bitgen -intstyle ise -f DK.ut DK.ncd 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DK.twx DK.ncd -o DK.twr DK.pcf -ucf DK.ucf 
+bitgen -intstyle ise -f DK.ut DK.ncd 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DK.twx DK.ncd -o DK.twr DK.pcf -ucf DK.ucf 
+bitgen -intstyle ise -f DK.ut DK.ncd 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DK.twx DK.ncd -o DK.twr DK.pcf -ucf DK.ucf 
+bitgen -intstyle ise -f DK.ut DK.ncd 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DK.twx DK.ncd -o DK.twr DK.pcf -ucf DK.ucf 
+bitgen -intstyle ise -f DK.ut DK.ncd 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DK.twx DK.ncd -o DK.twr DK.pcf -ucf DK.ucf 
+bitgen -intstyle ise -f DK.ut DK.ncd 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DK.twx DK.ncd -o DK.twr DK.pcf -ucf DK.ucf 
+bitgen -intstyle ise -f DK.ut DK.ncd 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DK.twx DK.ncd -o DK.twr DK.pcf -ucf DK.ucf 
+bitgen -intstyle ise -f DK.ut DK.ncd 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DK.twx DK.ncd -o DK.twr DK.pcf -ucf DK.ucf 
+bitgen -intstyle ise -f DK.ut DK.ncd 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DK.twx DK.ncd -o DK.twr DK.pcf -ucf DK.ucf 
+bitgen -intstyle ise -f DK.ut DK.ncd 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DK.twx DK.ncd -o DK.twr DK.pcf -ucf DK.ucf 
+bitgen -intstyle ise -f DK.ut DK.ncd 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DK.twx DK.ncd -o DK.twr DK.pcf -ucf DK.ucf 
+bitgen -intstyle ise -f DK.ut DK.ncd 
+xst -intstyle ise -ifn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.xst" -ofn "C:/Users/Alvaro/Documents/universidad/Asignaturas/Tercero/Sistemas electronicos/Donkey_Kong/DK.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc DK.ucf -p xc3s100e-cp132-5 "DK.ngc" DK.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o DK_map.ncd DK.ngd DK.pcf 
+par -w -intstyle ise -ol high -t 1 DK_map.ncd DK.ncd DK.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DK.twx DK.ncd -o DK.twr DK.pcf -ucf DK.ucf 
+bitgen -intstyle ise -f DK.ut DK.ncd 

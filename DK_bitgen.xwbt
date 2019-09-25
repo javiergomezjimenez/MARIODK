@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Alvaro\Documents\universidad\Asignaturas\Tercero\Sistemas electronicos\Donkey_Kong\DK.ncd
+OUTFILE=C:\Users\Alvaro\Documents\universidad\Asignaturas\Tercero\Sistemas electronicos\Donkey_Kong\DK.bit
+FAMILY=Spartan3E
+PART=xc3s100e-5cp132
+WORKINGDIR=C:\Users\Alvaro\Documents\universidad\Asignaturas\Tercero\Sistemas electronicos\Donkey_Kong
+LICENSE=WebPack
+USER_INFO=211608476_0_0_579
